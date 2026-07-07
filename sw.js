@@ -1,5 +1,5 @@
 /* Twin Mask Companion — offline cache (bump CACHE on version releases). */
-var CACHE = 'tmc-v01';
+var CACHE = 'tmc-v01.1';
 var ASSETS = [
   './',
   './index.html',
